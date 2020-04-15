@@ -1,0 +1,941 @@
+    1  sudo apt-get update
+    2  sudo apt-get install mint-meta-codecs
+    3  sudo apt-get install audacious
+    4  wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
+    5  sudo gdebi google-chrome-stable_current_amd64.deb
+    6  sudo apt-get install gparted
+    7  sudo add-apt-repository ppa:danielrichter2007/grub-customizer && sudo apt-get update && sudo apt-get install grub-customizer
+    8  sudo snap install slack --classic
+    9  sudo apt-get snap
+   10  sudo apt-get install snap
+   11  sudo snap install slack --classic
+   12  exit
+   13  sudo apt-get update
+   14  exit
+   15  wget http://ftp.us.debian.org/debian/pool/main/libp/libpng/libpng12-0_1.2.50-2+deb8u3_amd64.deb
+   16  mv libpng12-0_1.2.50-2+deb8u3_amd64.deb ./Download
+   17  cd Download
+   18  ll
+   19  ll Down*
+   20  ls Down*
+   21  cd Down
+   22  cd Downloads
+   23  ll
+   24  cd ..
+   25  ll
+   26  ls
+   27  ls Down*
+   28  ls Down* -w
+   29  ls Down* w
+   30  ls Down*
+   31  ll
+   32  cd eduardo
+   33  ll
+   34  rm Download
+   35  cd Downloads
+   36  wget http://ftp.us.debian.org/debian/pool/main/libp/libpng/libpng12-0_1.2.50-2+deb8u3_amd64.deb
+   37  sudo gdebi wps-office*
+   38  mkdir wps-office
+   39  cp libpng* ./wps-office/
+   40  cd wps
+   41  cd wps-office/
+   42  ll
+   43  wget http://ftp.us.debian.org/debian/pool/main/libp/libpng/libpng12-0_1.2.50-2+deb8u3_amd64.deb
+   44  sudo gdebi libpng12-0_1.2.50-2+deb8u3_amd64.deb
+   45  sudo apt-get update
+   46  ll
+   47  sudo gdebi wps-office_11.1.0.9080.XA_amd64.deb
+   48  wget http://www.catequesedoleigo.com.br/ubuntuiniciantes/corretor.deb
+   49  cd ~
+   50  cd Documentos/
+   51  ll
+   52  mkdir Treinamento Git
+   53  cd Treinamento/
+   54  ll
+   55  cd ..
+   56  rm -r Treinamento/
+   57  mkdir Treinamento_Git
+   58  cd Treinamento_Git/
+   59  cp /media/eduardo/Edu_8GB/BKP_Documentos/Treinamento GIT/. .
+   60  cp /media/eduardo/Edu_8GB/BKP_Documentos/Treinamento GIT/. ./
+   61  cp /media/eduardo/Edu_8GB/BKP_Documentos/Treinamento GIT/* .
+   62  cp /media/eduardo/Edu_8GB/BKP_Documentos/Treinamento GIT/*
+   63  cp /media/eduardo/Edu_8GB/BKP_Documentos/Treinamento_GIT/* .
+   64  ll
+   65  exit
+   66  ll
+   67  exit
+   68  sudo tar -xvf spring-tool-suite-4-4.5.0.RELEASE-e4.14.0-linux.gtk.x86_64.tar.gz 
+   69  cd sts-4.5.0.RELEASE//
+   70  ll
+   71  ./SpringToolSuite4 
+   72  ./SpringToolSuite4 STS.desktop
+   73  sudo vim /usr/share/applications/STS.desktop
+   74  sudo apt-get install vim
+   75  sudo apt-get update
+   76  sudo vim /usr/share/applications/STS.desktop
+   77  cd ~/Documentos/workspace
+   78  ll
+   79  git
+   80  cd ~
+   81  sudo apt-get install git
+   82  cd Documentos/
+   83  ll
+   84  cd workspace
+   85  ll
+   86  cd demo
+   87  cd ..
+   88  cd workspace_brasilprev/
+   89  git clone https://brasilprev-corp@dev.azure.com/brasilprev-corp/BP/_git/digital_propostacorpservice
+   90  ll
+   91  git remote --help
+   92  cd ..
+   93  cd demo
+   94  ll
+   95  cd workspace
+   96  ll
+   97  cd demo
+   98  git status
+   99  cd ..
+  100  rm -r demo
+  101  git clone https://github.com/eduardojnet/demo.git
+  102  ll
+  103  cd demo
+  104  git status
+  105  git log
+  106  cd ..
+  107  ll
+  108  cd ..
+  109  ll
+  110  cd workspace_brasilprev/
+  111  ll
+  112  cd digital_propostacorpservice/
+  113  git status
+  114  git log
+  115  ssh -i /Users/p51901214/.ssh/id_rsa -f -v -N -L 5433:proposta-corp.cvk5asnnedpe.sa-east-1.rds.amazonaws.com:5432 ec2-user@52.67.123.174
+  116  ping g1.com.br
+  117  cd ../../../Downloads/sts-4.5.0.RELEASE/
+  118  ll
+  119  pwd
+  120  ping g1.com.br
+  121  exit
+  122  ping g1.com.br
+  123  exit
+  124  python
+  125  pyton 3.7
+  126  python3.7
+  127  sudo apt-get update
+  128  sudo apt-get install python3.7
+  129  sudo apt-get install build-essential checkinstall
+  130  sudo apt-get install libreadline-gplv2-dev libncursesw5-dev libssl-dev \
+  131  sudo apt-get install libreadline-gplv2-dev libncursesw5-dev libssl-dev libsqlite3-dev tk-dev libgdbm-dev libc6-dev libbz2-dev libffi-dev zlib1g-dev
+  132  sudo apt-get update
+  133  sudo apt-get install python3.7.4
+  134  sudo apt-get install python-3.7.4
+  135  sudo apt-get install python374
+  136  sudo apt-get install python3.7.4
+  137  sudo apt-get install python3.7
+  138  python3.7
+  139  python3.7 -v
+  140  python3.7
+  141  python3.7 -v
+  142  python3.7 -V
+  143  sudo snap install freemind
+  144  sudo apt-get install snap
+  145  sudo snap install freemind
+  146  sudo apt install snap
+  147  sudo snap install freemind
+  148  sudo sh -c 'echo "deb http://archive.getdeb.net/ubuntu $(lsb_release -sc)-getdeb apps" >>
+  149  /etc/apt/sources.list.d/getdeb.list'
+  150  sudo sh -c 'echo "deb http://archive.getdeb.net/ubuntu $(lsb_release -sc)-getdeb apps"
+  151  sudo sh -c 'echo "deb http://archive.getdeb.net/ubuntu $(lsb_release -sc)-getdeb apps" >> /etc/apt/sources.list.d/getdeb.list'
+  152  wget -q -O - http://archive.getdeb.net/getdeb-archive.key | sudo apt-key add -
+  153  wget -q -O - http://archive.getdeb.net/getdeb-archive.key
+  154  sudo apt-key add -
+  155  wget -q -O - http://archive.getdeb.net/getdeb-archive.key
+  156  sudo apt-key add -
+  157  wget -q -O - http://archive.getdeb.net/getdeb-archive.key | sudo apt-key add -
+  158  sudo apt-get update
+  159  sudo
+  160  su
+  161  su -
+  162  sudo su
+  163  sudo wget -q -O - http://archive.getdeb.net/getdeb-archive.key | sudo apt-key add -
+  164  gpg
+  165  sudo gpg
+  166  sudo apt-get update
+  167  sudo apt-get install pycharm
+  168  sudo apt update
+  169  sudo apt-get install pycharm
+  170  sudo apt install snapd snapd-xdg-open
+  171  sudo snap install pycharm-community --classic
+  172  pycharm
+  173  ll
+  174  ls
+  175  ls -w
+  176  ls w
+  177  ll -w
+  178  ll
+  179  py
+  180  pycharm
+  181  cd /bin
+  182  pycharm
+  183  cd ..
+  184  pwd
+  185  cd ~
+  186  pwd
+  187  ll py*
+  188  ls py*
+  189  cd bin
+  190  ll
+  191  cd /usr/bin
+  192  ll
+  193  exit
+  194  ll
+  195  sudo apt-get update
+  196  ssh -i ~/p51901214/.ssh/id_rsa -f -v -N -L 5447:syncdata-hml.cvk5asnnedpe.sa-east-1.rds.amazonaws.com:5432 ec2-user@18.231.23.34
+  197  mkdir p51901214
+  198  ssh -i ~/p51901214/.ssh/id_rsa -f -v -N -L 5447:syncdata-hml.cvk5asnnedpe.sa-east-1.rds.amazonaws.com:5432 ec2-user@18.231.23.34
+  199  sudo ssh -i ~/p51901214/.ssh/id_rsa -f -v -N -L 5447:syncdata-hml.cvk5asnnedpe.sa-east-1.rds.amazonaws.com:5432 ec2-user@18.231.23.34
+  200  cd p51901214/
+  201  ll
+  202  cd ..
+  203  cd .ssh/
+  204  ll
+  205  cat known_hosts 
+  206  cd ..
+  207  sudo ssh -i ~/.ssh/id_rsa -f -v -N -L 5447:syncdata-hml.cvk5asnnedpe.sa-east-1.rds.amazonaws.com:5432 ec2-user@18.231.23.34
+  208  cd .ssh/
+  209  ll
+  210  cd ..
+  211  pwd
+  212  sudo apt-get install openssh-server
+  213  ssh-keygen -t rsa
+  214  cd .ssh/
+  215  ll
+  216  cat id_rsa
+  217  ll
+  218  cat id_rsa.pub 
+  219  sudo ssh -i ~/.ssh/id_rsa -f -v -N -L 5447:syncdata-hml.cvk5asnnedpe.sa-east-1.rds.amazonaws.com:5432 ec2-user@18.231.23.34
+  220  ssh -i ~/.ssh/id_rsa -f -v -N -L 5443:proposta-corp.cvk5asnnedpe.sa-east-1.rds.amazonaws.com:5432 ec2-user@52.67.123.174
+  221  cat id_rsa
+  222  cat id_rsa.pub
+  223  history
+  224  ssh -i ~/.ssh/id_rsa -f -v -N -L 5443:proposta-corp.cvk5asnnedpe.sa-east-1.rds.amazonaws.com:5432 ec2-user@52.67.123.174
+  225  cd ..
+  226  exit
+  227  cd /bin
+  228  ll
+  229  ls py*
+  230  ls py*l*
+  231  ls py*.*
+  232  ll py*
+  233  ll
+  234  cd /etc/ssh/ssh_config
+  235  cd /etc/ssh/
+  236  ll
+  237  cat ssh_config
+  238  cd ..
+  239  cd ssh
+  240  cd .ssh
+  241  ll
+  242  pwd
+  243  cd ~/.ssh
+  244  ll
+  245  nano id_rsa
+  246  nano id_rsa.pub
+  247  exit
+  248  sudo apt-get update
+  249  ps
+  250  sudo ps
+  251  ping www.g1.com.br
+  252  pwd
+  253  find / -iname pycharm* 2>/dev/null
+  254  cd /snap/pycharm-community/
+  255  ll
+  256  cd 179
+  257  ll
+  258  cat Install-Linux-tar.txt 
+  259  ll
+  260  cat Install-Linux-tar.txt 
+  261  ll
+  262  cd ..
+  263  cat ~/.python_history 
+  264  cd /snap/pycharm-community/179
+  265  cd bin
+  266  l
+  267  cat idea.properties 
+  268  ./pycharm.sh
+  269  clear
+  270  ll
+  271  cd ../..
+  272  cd ..
+  273  sudo mv pycharm-community /opt
+  274  cd /opt
+  275  ll
+  276  sudo ln -s /opt/pycharm-community/bin/pycharm.sh /usr/bin/pycharm
+  277  cd ~
+  278  pwd
+  279  sudo tee /usr/share/applications/jetbrains-pycharm-ce.desktop
+  280  cd /usr/share/applications
+  281  ll
+  282  ll py*
+  283  cat python3.7.desktop 
+  284  sudo tee /usr/share/applications/jetbrains-pycharm-ce.desktop <<ATALHO
+  285  [Desktop Entry]
+  286  Version=1.0
+  287  Type=Application
+  288  Name=PyCharm Community Edition
+  289  Icon=/opt/pycharm-community/bin/pycharm.png
+  290  Exec="/opt/pycharm-community/bin/pycharm.sh" %f
+  291  Comment=The Drive to Develop
+  292  Categories=Development;IDE;
+  293  Terminal=false
+  294  StartupWMClass=jetbrains-pycharm-ce
+  295  ATALHO
+  296  ls pychar*
+  297  ll pychar*
+  298  ll
+  299  nano jetbrains-pycharm-ce.desktop 
+  300  sudo nano jetbrains-pycharm-ce.desktop 
+  301  mv jetbrains-pycharm-ce.desktop jetbrains-pycharm-ce.desktop
+  302  sudo nano jetbrains-pycharm-ce.desktop
+  303  FG
+  304  fg
+  305  sudo nano jetbrains-pycharm-ce.desktop
+  306  cp jetbrains-pycharm-ce.desktop pycharm.desktop
+  307  sudo cp jetbrains-pycharm-ce.desktop pycharm.desktop
+  308  ll
+  309  exit
+  310  pycharm
+  311  ./pycharm
+  312  sudo apt install snapd snapd-xdg-open
+  313  sudo apt-get install snapd snapd-xdg-open
+  314  sudo apt-get update snapd snapd-xdg-open
+  315  sudo snap
+  316  sudo snap install pycharm-community --classic
+  317  sudo apt-get update
+  318  sudo apt-get clean
+  319  sudo apt-get update
+  320  pwd
+  321  ll
+  322  cd ..
+  323  cd application
+  324  ll
+  325  cd application-registry/
+  326  ll
+  327  cd ..
+  328  cd applications
+  329  ll
+  330  nano slack.desktop
+  331  exit
+  332  cd ~
+  333  python
+  334  python3.7
+  335  pip
+  336  cd /opt/pycharm-community/ll
+  337  cd current
+  338  ll
+  339  pwd
+  340  cd /opt
+  341  ll
+  342  cd pycharm-community/
+  343  ll
+  344  cd 179
+  345  ll
+  346  pwd
+  347  ll py*
+  348  ll
+  349  cd bin
+  350  ll
+  351  ./opt/pycharm-community/179/bin/pycharm.sh
+  352  /opt/pycharm-community/179/bin/pycharm.sh
+  353  /opt/pycharm-community/179/bin/pycharm.sh %f
+  354  cd /usr/share/applications
+  355  ll
+  356  exit
+  357  uvicorn main:app
+  358  cd /usr/share/applications
+  359  ll
+  360  history
+  361  history
+  362  ll
+  363  ping facebook.com.br
+  364  ping g1.com.br
+  365  cd ~
+  366  ll
+  367  find *.py -iname ~/ 2>/dev/null
+  368  find *py -iname ~/ 2>/dev/null
+  369  find *py -iname ~ 2>/dev/null
+  370  find -iname *py  2>/dev/null
+  371  pwd
+  372  ll
+  373  ls
+  374  cd p51901214/
+  375  ll
+  376  cd ..
+  377  rm -r p51901214/
+  378  ll
+  379  l
+  380  git
+  381  git status
+  382  pwd
+  383  ll
+  384  ls
+  385  cd Documentos/
+  386  ll
+  387  cd workspace-python/
+  388  l
+  389  ll
+  390  git status
+  391  cd empresarial_api/
+  392  ll
+  393  git status
+  394  cd ..
+  395  git clone brasilprev-corp@vs-ssh.visualstudio.com:v3/brasilprev-corp/DxLab/vendas_bb
+  396  https://brasilprev-corp.visualstudio.com/DxLab/_git/vendas_bb
+  397  git clone https://brasilprev-corp.visualstudio.com/DxLab/_git/vendas_bb
+  398  ll
+  399  python
+  400  python3
+  401  python3.7
+  402  ls
+  403  vd vendas_bb/
+  404  cd vendas_bb/
+  405  ll
+  406  source venv/bin/activate
+  407  ll
+  408  which python
+  409  pip install -r requirements/dev.txt
+  410  which python
+  411  history
+  412  git status
+  413  git checkout p51901214
+  414  git branch
+  415  git status
+  416  git log
+  417  git status
+  418  git checkout
+  419  git status
+  420  git branch
+  421  cd ..
+  422  ll
+  423  cd vendas_bb/
+  424  git
+  425  git statsu
+  426  git log
+  427  git checkout task15985
+  428  git branch
+  429  git checkout -b p51901214
+  430  git branch
+  431  ll
+  432  git log
+  433  git log --oneline --parents
+  434  git branch
+  435  git status
+  436  git merge task15985
+  437  git status
+  438  git branch
+  439  git status
+  440  git add .
+  441  git status
+  442  git commit -m 'Atualizando branch p519
+  443  git commit -m 'Atualizando branch p519011214 com atualizacoes da task15985'
+  444  git status
+  445  git config --global user.email "p51901214@brasilprev.com.br"
+  446  git config --global user.name "Eduardo Jose"
+  447  git remote add origin https://brasilprev-corp.visualstudio.com/DxLab/_git/vendas_bb
+  448  git status
+  449  git commit -m 'Atualizando branch p519011214 com atualizacoes da task15985'
+  450  git branch
+  451  git status
+  452  git
+  453  git init
+  454  git status
+  455  cd ..
+  456  git
+  457  git status
+  458  git log
+  459  cd vendas_bb/
+  460  ll
+  461  git log
+  462  git remote -v
+  463  git fetch
+  464  git commit
+  465  git push origin p51901214
+  466  git status
+  467  git branch
+  468  git push
+  469  git push --set-upstream origin p51901214
+  470  ll
+  471  nano .env
+  472  git push --set-upstream origin p51901214
+  473  git push origin p51901214
+  474  ll
+  475  cat .gitignore
+  476  git branch
+  477  git push origin p51901214
+  478  ll
+  479  cd .git/
+  480  ll
+  481  cd ..
+  482  git statu
+  483  git status
+  484  git branch
+  485  git config
+  486  config -l
+  487  git config -l
+  488  cd ..
+  489  rm -r vendas_bb/
+  490  ll
+  491  git clone brasilprev-corp@vs-ssh.visualstudio.com:v3/brasilprev-corp/DxLab/vendas_bb
+  492  ll
+  493  git clone brasilprev-corp@vs-ssh.visualstudio.com:v3/brasilprev-corp/DxLab/vendas_bb
+  494  history
+  495  cd ~
+  496  ll
+  497  cd .ssh
+  498  ll
+  499  cat id_rsa.pub
+  500  ping www.g1.com.br
+  501  python --version
+  502  history
+  503  ll
+  504  hisotry
+  505  history
+  506  history >history.txt
+  507  nano history.txt
+  508  vpn
+  509  ll
+  510  ls work*
+  511  ls Mode*
+  512  ls Mode*.*
+  513  ls
+  514  ls mo*.*
+  515  ls Mod*.*
+  516  ls
+  517  ll
+  518  ll Im*
+  519  ll Img*
+  520  ll I*
+  521  ll img*
+  522  ll Img*
+  523  ll Im*
+  524  ll Li*
+  525  ll Li*.*
+  526  ll
+  527  ll Mod*
+  528  ls
+  529  ls -w
+  530  ls
+  531  ls --help
+  532  ls -a -w
+  533  ls -a --w
+  534  ls -a
+  535  pwd
+  536  cd Documentos/
+  537  ll
+  538  cd workspace-python/
+  539  ll
+  540  git branch
+  541  git clone brasilprev-corp@vs-ssh.visualstudio.com:v3/brasilprev-corp/DxLab/vendas_bb
+  542  cd vendas_bb/
+  543  ll
+  544  git 
+  545  git status
+  546  git checkout -b p51901214
+  547  branch
+  548  git branch
+  549  git push origin p51901214
+  550  git status
+  551  ll]
+  552  ll
+  553  cat .editorconfig 
+  554  ll
+  555  cd .vscode/
+  556  ll
+  557  cd ..
+  558  cat Pipfile
+  559  cat Dockerfile 
+  560  clera
+  561  clear
+  562  ll
+  563  cd app/
+  564  ll
+  565  cd ..
+  566  LL
+  567  ll
+  568  cd /usr/bin/python
+  569  cd /usr/bin
+  570  ll
+  571  ls
+  572  pwd
+  573  clear
+  574  cd/home/eduardo/.cache/pip/
+  575  cd /home/eduardo/.cache/pip/
+  576  ls
+  577  cd /
+  578  cd ~
+  579  pip3 install wheel
+  580  python --version
+  581  python3.7 --version
+  582  exit
+  583  python --version
+  584  alias python=python3.7.5
+  585  python --version
+  586  alias python=python3.7
+  587  python --version
+  588  pip install virtualenv --user
+  589  clear
+  590  sudo apt-get install bdist_wheel
+  591  clear
+  592  pip install wheel
+  593  pip install virtualenv --user
+  594  virtualenv ambientevirtual
+  595  pip3 install virtualenv --user
+  596  virtualenv ambientevirtual
+  597  pip3.7 install virtualenv --user
+  598  source ambientevirtual/bin/activate
+  599  pip freeze
+  600  pip install Flask
+  601  pip3 install Flask
+  602  pip3 install Flask-Restful
+  603  pip freeze
+  604  pip3 freeze
+  605  pip3 install Flask
+  606  pip3 install Flask-Restful
+  607  pip3 freeze
+  608  sudo pip3 install Flask
+  609  sudo pip3 install Flask-Restful
+  610  pip3 freeze
+  611  pip install flask_restful
+  612  pip3 install flask_restful
+  613  python --version
+  614  pyton3 --verson
+  615  pyton3 --version
+  616  python3 --version
+  617  sudo apt-get install python3.7.3
+  618  which python
+  619  which python3
+  620  which python3.7
+  621  alias python=python3.7
+  622  python --version
+  623  pip install virtualenv --user
+  624  sudo pip install virtualenv --user
+  625  clear
+  626  pip install virtualenv --user
+  627  pip3 install virtualenv --user
+  628  virtualenv ambvir --python=python3.7.5
+  629  source ambvir/bin/activate
+  630  pip freeze
+  631  git status
+  632  pip freeze
+  633  pip install -r requirements.txt
+  634  pip freeze
+  635  clear
+  636  ll
+  637  ls
+  638  cd ambientevirtual/
+  639  ll
+  640  cd ..
+  641  deactivate venv
+  642  activate ambientevirtual/
+  643  activate ambientevirtual
+  644  sudo add-apt-repository ppa:apandada1/up-clock
+  645  sudo apt-get update
+  646  sduo apt-get install up-clock
+  647  sudo apt-get install up-clock
+  648  sudo apt-get install tzclock_4.2-1_amd64
+  649  sudo apt-get install tzclock
+  650  EXIT
+  651  exit
+  652  python --version
+  653  alias python=python3.7.5
+  654  python --version
+  655  python setup.py bdist_wheel
+  656  pip3 install wheelexit
+  657  exexit
+  658  exit
+  659  cd Documentos/
+  660  ll
+  661  cd workspace_brasilprev/
+  662  ll
+  663  cd vendas_bb
+  664  git
+  665  git status
+  666  git log
+  667  git branch
+  668  git status
+  669  git dif
+  670  pip3 --version
+  671  pip install virtualenv
+  672  history
+  673  pip install virtualenv
+  674  pip install setuptools
+  675  pip install virtualenv
+  676  sudo pip install setuptools
+  677  sudo pip install virtualenv
+  678  pip install virtualenv
+  679  ./pycharm
+  680  python --version
+  681  alias python=python3.7
+  682  python --version
+  683  exit
+  684  alias pip=pip3
+  685  pip
+  686  pip --version
+  687  alias pip=pip3.7
+  688  pip --version
+  689  pip3
+  690  pip3 --version
+  691  python3.7 -m pip install --upgrade pip
+  692  pip --version
+  693  python --version
+  694  alias python=python3.7
+  695  python --version
+  696  pip install virtualenv
+  697  virtualenv ambvir --python=python3.7
+  698  source ambvir/bin/activate
+  699  pip freeze
+  700  pip install Flask
+  701  pip --version
+  702  pip install flask-restful
+  703  pip freez
+  704  pip freeze
+  705  clear
+  706  pip install Flask
+  707  pip install Flask-Restful
+  708  deactivate
+  709  pip install Flask
+  710  pip install Flask-Restful
+  711  pip --version
+  712  ll
+  713  activate ambvir
+  714  source ambvir/bin/activate
+  715  pip freeze
+  716  ll
+  717  python --version
+  718  python app.py
+  719  ll
+  720  cd Documentos/workspace_brasilprev/
+  721  cd vendas_bb/
+  722  ll
+  723  git status
+  724  nano .gitignore 
+  725  git pull origin master
+  726  git status
+  727  git log
+  728  clear
+  729  git status
+  730  git pull origin master
+  731  python --version
+  732  python3
+  733  pip install virtualenv --user
+  734  pip3.7 install virtualenv --user
+  735  virtualenv --version
+  736  virtualenv ambvir --python=3.7
+  737  source ambvir/bin//activate
+  738  pip freeze
+  739  pip3.7 freeze
+  740  pip3.7 -r requirements.txt
+  741  pip3.7 install -r requirements.txt
+  742  uvicorn main:app --reload
+  743  source ambvir/bin//activate
+  744  pip3.7 freeze
+  745  pip
+  746  python
+  747  python --version
+  748  pip --version
+  749  pip
+  750  sudo apt-get install pip3.7.5
+  751  pip
+  752  pip3
+  753  pip freeze
+  754  python --version
+  755  python -m pip install whatever
+  756  pip3
+  757  pip
+  758  pip3.7
+  759  python -m pip install whatever
+  760  sudo pip3
+  761  sudo pip3 --version
+  762  sudo pip --version
+  763  sudo python -m pip install
+  764  pip
+  765  sudo pip --verson
+  766  sudo pip --version
+  767  which python
+  768  pip
+  769  pip3.7
+  770  pip3.7 --version
+  771  pip
+  772  pip --version
+  773  sudo apt-get update
+  774  sudo apt-get install python3.7-pip
+  775  sudo apt-get install python3.7.5-pip
+  776  pip3
+  777  pip
+  778  pip3.7
+  779  pwd
+  780  deactivate
+  781  pip
+  782  pip freeze
+  783  pip --version
+  784  pip install virtualenv --user
+  785  virtualenv ambvir --python=3.7.5
+  786  source ambvir/bin/activate
+  787  pip freeze
+  788  pip install Flask
+  789  pip install Flask-Restful
+  790  ll
+  791  python --versino
+  792  python --version
+  793  python app.py 
+  794  source ambvir/bin/activate
+  795  python app.py 
+  796  source ambvir/bin/activate
+  797  python app.py 
+  798  pip install Flask
+  799  pip install Flask-Restful
+  800  python app.py
+  801  clear
+  802  python app.py
+  803  source ambvir/bin/activate
+  804  python app.py
+  805  python criabanco.py
+  806  python test.py
+  807  clear
+  808  pip install Flask-SQLAlchemy
+  809  clear
+  810  pip install Flask-SQLAlchemy
+  811  deactivate
+  812  pip install Flask-SQLAlchemy
+  813  source ambvir/bin/activate
+  814  python app.py
+  815  clear
+  816  python app.py
+  817  git 
+  818  git status
+  819  git init
+  820  git status
+  821  git branch
+  822  git log
+  823  git remote add origin https://github.com/eduardojnet^C
+  824  git remote add origin https://github.com/eduardojnet/RESTAPI_Python_Flask
+  825  git status
+  826  git add .
+  827  git status
+  828  clear
+  829  git commit -m 'Projeto REST API com Python and Flask, reescrevendo método Posto com banco de dados'
+  830  git push
+  831  git push --set-upstream origin master
+  832  git status
+  833  git push --set-upstream origin master
+  834  git init
+  835  git push
+  836  git push --set-upstream origin master
+  837  git push --set-upstream origin https://github.com/eduardojnet/RESTAPI_Python_Flask
+  838  git branch -d https://github.com/eduardojnet/RESTAPI_Python_Flask
+  839  git branch -d https://github.com/eduardojnet^C/
+  840  git branch -d https://github.com/eduardojnet^C
+  841  git branch -d https://github.com/eduardojnet
+  842  git branch -d https://github.com/eduardojnet/RESTAPI_Python_Flask
+  843  git branch -d RESTAPI_Python_Flask
+  844  git branch
+  845  git status
+  846  git log
+  847  git checkout -b 'REST API com Python e Flask'
+  848  git checkout -b 'REST_API_Python_Flask'
+  849  git log
+  850  git branch
+  851  git status
+  852  git push
+  853  git push --set-upstream origin REST_API_Python_Flask
+  854  git branch
+  855  git remote
+  856  git push --set-upstream origin REST_API_Python_Flask
+  857  ll
+  858  cd .git/
+  859  ll
+  860  cd branches/
+  861  ll
+  862  ls
+  863  ls -a
+  864  cd ..
+  865  ls -a
+  866  cd hooks/
+  867  ll
+  868  cd ..
+  869  ll
+  870  cd objects/
+  871  ll
+  872  cd ..cd ..
+  873  cd ../..
+  874  ll
+  875  git status
+  876  git log
+  877  git remote -v
+  878  git remote -D https://github.com/eduardojnet^C
+  879  git remote -v
+  880  git remote -d https://github.com/eduardojnet^C
+  881  git remote -d https://github.com/eduardojnet
+  882  cledar
+  883  clear
+  884  git remote -d https://github.com/eduardojnet
+  885  git remote -D https://github.com/eduardojnet
+  886  git fatch
+  887  git push
+  888  git push --set-upstream origin REST_API_Python_Flask
+  889  git push --set-upstream https://github.com/eduardojnet^C
+  890  git push --set-upstream https://github.com/eduardojnet
+  891  git push --set-upstream https://github.com/eduardojnetC
+  892  git push --set-upstream https://github.com/eduardojnet^C
+  893  git fetch
+  894  git remote -v
+  895  git fetch
+  896  git
+  897  git pull
+  898  git push
+  899  git reset
+  900  git
+  901  git status
+  902  git branch
+  903  git remote -d https://github.com/eduardojnet
+  904  git remote -d https://github.com/eduardojnet^C
+  905  git status
+  906  git push --set-upstream origin REST_API_Python_Flask
+  907  git init
+  908  rm -r .git/
+  909  git reset HARD
+  910  git push --set-upstream origin REST_API_Python_Flask
+  911  git remote add REST_API_Python_Flask
+  912  git push origin REST_API_Python_Flask 
+  913  git branch -dr origin/https://github.com/eduardojnet^C/
+  914  git branch -dr origin/https://github.com/eduardojnet^C
+  915  git branch -dr origin/https://github.com/eduardojnet^
+  916  git branch -dr origin/https://github.com/eduardojnet
+  917  rm -r .git
+  918  rm -ry .git
+  919  rm -r y .git
+  920  rm -r -y .git
+  921  rm -r .git
+  922  rm -r .git -y
+  923  rm -r .git
+  924  rm --help
+  925  rm -r -f .git
+  926  ll
+  927  git
+  928  git status
+  929  git branch
+  930  git log
+  931  git init
+  932  git status
+  933  git add .
+  934  git status
+  935  git branch
+  936  git branch -b REST_API_Python_Flask
+  937  git checkout -b REST_API_Python_Flask
+  938  git branch
+  939  git status
+  940  git log
+  941  history >history.txt
